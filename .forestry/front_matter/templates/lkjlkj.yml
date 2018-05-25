@@ -1,0 +1,13 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: field_group_list
+- type: tag_list
+- type: datetime
+  config:
+    display_utc: false
+- type: text
+  name: sdfgsdfg
+  label: ",m.,.m"
+  description: sdfgsdfgsdfg
